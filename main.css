@@ -1,0 +1,35 @@
+body {
+    background: -webkit-linear-gradient(rgb(72, 110, 185), rgb(14, 26, 39)) fixed;
+    color: whitesmoke;
+}
+
+.state {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.state h5 {
+    margin-top: 30px;
+}
+
+.state p {
+    margin-top: 30px;
+    font-size: 1.8rem;
+    font-style: oblique;
+}
+
+
+.card {
+    color: #000;
+}
+
+.card-header {
+    color: rgb(51, 134, 202);
+    font-weight: 500;
+}
+
+#info p {
+    font-size: 1rem;
+}
+
+/* 22 value */
